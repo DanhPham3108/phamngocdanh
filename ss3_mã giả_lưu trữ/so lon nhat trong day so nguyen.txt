@@ -1,0 +1,13 @@
+Begin
+	Input N,dãy số nguyên a1,a2,...,an;
+		M=a1
+		i=2
+		If i>n 
+		   Output M
+		Then If a1>B
+		     Output = M =a1
+		    i=i+1 Return i>n
+		     EndIf
+		EndIf
+	Output M	 
+end
