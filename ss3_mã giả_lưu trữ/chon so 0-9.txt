@@ -1,0 +1,9 @@
+BEGIN
+	INPUT NHAP N;
+		M la so ngau nhien 0-9
+           IF N=M
+		OUTPUT DUNG
+	   ELSE
+		OUTPUT SAI
+
+END
