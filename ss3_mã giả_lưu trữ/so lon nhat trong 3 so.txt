@@ -1,0 +1,11 @@
+BEGIN
+	Input a,b,c
+		a = số lớn nhất
+			if b>a
+			then b = số lớn nhất
+			    if c>b 
+			    then c = số lớn nhất
+			    endif
+   			endif
+	Output 	số lớn nhất		
+END

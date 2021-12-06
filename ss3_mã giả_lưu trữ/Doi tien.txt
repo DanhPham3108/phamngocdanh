@@ -1,0 +1,5 @@
+BEGIN
+	Input Nhập n là số USD
+	Số tiền VND = n*23000
+	Ouput Số tiền VND		
+END

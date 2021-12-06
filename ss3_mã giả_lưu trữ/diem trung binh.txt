@@ -1,0 +1,7 @@
+BEGIN
+	Input T la diem toan;
+	      L la diem ly;
+	      H la diem hóa;
+	      Diem trung binh = (T+L+H)/3
+	Output Diem trung binh
+END
